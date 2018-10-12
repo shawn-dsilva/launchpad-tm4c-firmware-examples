@@ -2,6 +2,7 @@
 ## About
 
 Simple program that prints whatever string you send to the TM4C back to your serial console prompt
+Tested to work on Ubuntu 18.04 LTS
 
 ## Usage
 

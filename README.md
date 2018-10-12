@@ -11,9 +11,9 @@ This repository will contain code making use of UART,SPI,I2C,ADC,DAC,PWM and Int
 
  - Follow the instructions in [this repo's ](https://github.com/shawn-dsilva/tm4c-linux-template)README for setting up a cross-compilation toolchain on Ubuntu 18.04 LTS
  - clone this repo 
-     `git clone https://github.com/shawn-dsilva/my-tm4c-firmware-examples`
+     `git clone https://github.com/shawn-dsilva/launchpad-tm4c-firmware-examples`
   - `cd` to whatever example you want to run e.g 
-	     `cd my-tm4c-firmware-examples/uart-echo`
+	     `cd launchpad-tm4c-firmware-examples/uart-echo-busywait`
  - Run `make`
  - Run `sudo make flash` to flash the main.bin to TM4C board
  - Consult the README for any example for further instructions specific to it.
